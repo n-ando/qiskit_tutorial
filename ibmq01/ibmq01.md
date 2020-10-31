@@ -6,7 +6,7 @@ https://utokyo-icepp.github.io/qc-workbook/chsh_inequality.html#
 - コード: [ibmq01.py](ibmq01.py)
 
 ### 実行結果
-```
+```shell
 n-andos-MBP16:Qiskit n-ando$ ./ibmq01.py 
 Jobs will run on ibmq_athens
 Job Status: job has successfully run
@@ -18,7 +18,7 @@ Yes, we are using a quantum computer!
 
 ### コード
 
-```
+```python
 #!/usr/bin/env python3
 # https://utokyo-icepp.github.io/qc-workbook/chsh_inequality.html#id66
 import numpy as np
