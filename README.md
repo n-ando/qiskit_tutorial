@@ -1,6 +1,6 @@
 # 量子コンピューティング・ワークブックの勉強
 
-<img src="https://qiskit.org/documentation/locale/ja_JP/_images/qiskit_nutshell.png" align=right>
+<img src="https://qiskit.org/documentation/locale/ja_JP/_images/qiskit_nutshell.png" width="300" align="right">
 
 以下の「量子コンピューティング・ワークブック」に従って勉強したメモ、コードの保存場所。
 
