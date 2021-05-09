@@ -7,5 +7,7 @@
 - [量子コンピューティング・ワークブック](https://utokyo-icepp.github.io/qc-workbook/welcome.html)
 - [Qiskit.org](https://qiskit.org/)
 - [Qiskitドキュメント](https://qiskit.org/documentation/locale/ja_JP/qc_intro.html)
+- [IBM Quantum](https://quantum-computing.ibm.com/)
+
  
 
